@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing testing testing.md",
+                "file": "Gaming/Research/Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testing testing testing"
+              "title": "Mechanics"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing testing testing.md",
+                "file": "Gaming/Research/Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for testing testing testing"
+              "title": "Backlinks for Mechanics"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing testing testing.md",
+                "file": "Gaming/Research/Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from testing testing testing"
+              "title": "Outgoing links from Mechanics"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing testing testing.md",
+                "file": "Gaming/Research/Mechanics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of testing testing testing"
+              "title": "Outline of Mechanics"
             }
           },
           {
@@ -197,6 +196,10 @@
   },
   "active": "805e166d807e1d77",
   "lastOpenFiles": [
-    "testing testing testing.md"
+    "testing testing testing.md",
+    "Gaming/Research/Mechanics.md",
+    "Untitled.base",
+    "Gaming/Research",
+    "Gaming"
   ]
 }

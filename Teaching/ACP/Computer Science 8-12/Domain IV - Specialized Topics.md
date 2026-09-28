@@ -3,7 +3,7 @@
 > The computer science teacher knows discrete mathematics topics relevant to computer science.
 
 1. Demonstrates knowledge of terminology and the appropriate application of sets, functions and relations.
-2. Constructs truth tables (for negation, conjunction, disjunction, implication, biconditional, bit operators) and uses them to demonstrate propositional relations.
+2. Constructs ==truth tables== (for negation, conjunction, disjunction, implication, biconditional, bit operators) and uses them to demonstrate propositional relations.
 3. Converts spoken language statements to appropriate statements in propositional logic.
 4. Demonstrates proficiency in the use of Boolean algebra, including De Morgan's laws, to identify propositional equivalences.
 5. Uses formal logic proofs and logical reasoning to solve problems and evaluate algorithmic complexity.

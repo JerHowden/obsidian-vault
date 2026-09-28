@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "b9dd3f9f0d935b3f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "354dc3b43e3540b2",
   "lastOpenFiles": [
+    "Teaching/Computer Science 8-12",
+    "Home.md",
     "Untitled.base",
-    "Untitled.md",
     "Home Page.md",
     "Gaming/Research/Mechanics.md",
     "Teaching/Untitled.md",
@@ -205,7 +206,7 @@
     "Teaching/Pedagogy",
     "Teaching/ACP",
     "Teaching",
-    "Pre-Service",
+    "Teaching/Pre-Service",
     "testing testing testing.md",
     "Gaming/Research",
     "Gaming"

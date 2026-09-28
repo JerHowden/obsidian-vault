@@ -21,7 +21,7 @@
 7. Knows how to create and use libraries of generic modular code for efficient programming.
 8. Demonstrates the ability to read, evaluate, correct and improve existing code.
 9. Knows how to create robust programs by avoiding runtime errors and handling anticipated errors (e.g., correct handling of input and output, division by zero, type mismatch).
-10. Demonstrates the ability to test programs by entering valid and invalid data; investigating boundary conditions; testing classes, methods and libraries in isolation; and performing stepwise refinement.
+10. Demonstrates the ability to test programs by entering valid and invalid data; investigating boundary conditions; testing classes, methods and libraries in isolation; and performing ==stepwise refinement==.
 11. Demonstrates the ability to debug program errors (e.g., syntax, runtime, logic) using error messages, reference materials, language documentation and other effective strategies.
 
 ## Competency 006
@@ -30,6 +30,6 @@
 
 1. Knows fundamental computer science vocabulary, including terms related to hardware, software and computational thinking.
 2. Knows specific programming terminology, including terms related to data type, data structures, algorithms and programming constructs.
-3. Knows the differences between low-level and high-level languages.
-4. Knows the differences between compiled and interpreted languages.
+3. Knows the differences between ==low-level and high-level== languages.
+4. Knows the differences between ==compiled and interpreted== languages.
 5. Knows the characteristics of and differences in current programming languages and paradigms (e.g., procedural, object-oriented).

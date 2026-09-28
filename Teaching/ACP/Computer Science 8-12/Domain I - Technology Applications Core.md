@@ -30,7 +30,7 @@
 5. Knows how to select representative products to be collected and stored in an electronic evaluation tool and to evaluate products for relevance to the assignment or task.
 6. Knows how to plan and design products that are accessible to learners with various needs and abilities.
 
-## Competency 003
+## ==Competency 003==
 
 > The computer science teacher knows how to plan, organize, deliver and evaluate instruction that effectively utilizes current technology for teaching the Technology Applications Texas Essential Knowledge and Skills (TEKS) to all students.
 

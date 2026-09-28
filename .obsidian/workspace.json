@@ -1,23 +1,20 @@
 {
   "main": {
-    "id": "43dc5f6c529b3c03",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "244308a59bdafa88",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ed194f5eec2a1719",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -173,16 +172,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "f524c17371a55b19",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
         "currentTab": 5
@@ -194,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -204,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "354dc3b43e3540b2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Untitled.base",
     "Untitled.md",

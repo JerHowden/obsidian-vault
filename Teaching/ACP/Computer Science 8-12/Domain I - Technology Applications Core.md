@@ -30,19 +30,19 @@
 5. Knows how to select representative products to be collected and stored in an electronic evaluation tool and to evaluate products for relevance to the assignment or task.
 6. Knows how to plan and design products that are accessible to learners with various needs and abilities.
 
-## ==Competency 003==
+## Competency 003
 
 > The computer science teacher knows how to plan, organize, deliver and evaluate instruction that effectively utilizes current technology for teaching the Technology Applications Texas Essential Knowledge and Skills (TEKS) to all students.
 
-1. Knows how to implement grade-level appropriate instructional practices, activities and materials to improve student learning.
-2. Knows how to implement lessons using various instructional strategies.
-3. Demonstrates knowledge of issues related to the balanced use of technology for various populations.
+1. Knows how to implement grade-level appropriate ==instructional practices==, activities and materials to improve student learning.
+2. Knows how to implement lessons using ==various instructional strategies==.
+3. Demonstrates knowledge of issues related to the ==balanced use of technology== for various populations.
 4. Knows how to implement instruction that allows students to solve problems by posing questions, collecting data and interpreting results.
-5. Knows how to develop and facilitate collaborative tasks among group members, incorporating various perspectives while exploring alternative solutions.
+5. Knows how to ==develop and facilitate collaborative tasks== among group members, incorporating various perspectives while exploring alternative solutions.
 6. Knows strategies to help students learn how to locate, retrieve, analyze, evaluate, communicate and retain content-related information from a variety of texts and digital sources.
-7. Knows how to evaluate student projects and portfolios using various assessment methods (e.g., formal, informal).
+7. Knows how to evaluate student projects and portfolios using ==various assessment methods== (e.g., formal, informal).
 8. Knows how to promote effective self-evaluation and use of feedback from peers.
-9. Knows the relationship between instruction and assessment.
-10. Knows how to adjust instruction based on assessment results.
+9. Knows the ==relationship between instruction and assessment==.
+10. Knows how to ==adjust instruction== based on assessment results.
 11. Demonstrates knowledge of emerging technology and its role in education.
 12. Knows the importance of self-assessment and planning for professional growth.

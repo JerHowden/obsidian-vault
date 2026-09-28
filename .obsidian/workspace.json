@@ -8,17 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "805e166d807e1d77",
+            "id": "ed194f5eec2a1719",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Gaming/Research/Mechanics.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Mechanics"
+              "icon": "lucide-layout-grid",
+              "title": "Untitled"
             }
           }
         ]
@@ -174,13 +173,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f524c17371a55b19",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,17 +204,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "805e166d807e1d77",
+  "active": "354dc3b43e3540b2",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled.md",
+    "Home Page.md",
+    "Gaming/Research/Mechanics.md",
     "Teaching/Untitled.md",
     "Teaching.base",
     "Teaching/Pedagogy",
     "Teaching/ACP",
     "Teaching",
-    "Untitled.base",
     "Pre-Service",
     "testing testing testing.md",
-    "Gaming/Research/Mechanics.md",
     "Gaming/Research",
     "Gaming"
   ]

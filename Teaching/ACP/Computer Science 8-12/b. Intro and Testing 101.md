@@ -60,7 +60,7 @@ options:
 
 ## Testing Strategies
 
-- TExES Land: 
+- TExES Land:
 	- Over the rainbow ideal conditions
 		- Well-behaves students, parents, and staff
 		- Abundance of time, money, and community support
@@ -68,24 +68,21 @@ options:
 		- Observes for brief periods
 		- Makes recommendations based upon information given by others
 			- NO making assumptions
-
 - Does the answer you like answer the question being asked, or does it just sound good?
 - Is it **Learner/Student-centered**?
 - Does the teacher have High Expectations of ALL students?
 - Is it Practical (Real-Life)?
-
 - Look for Following Characteristics
 	- Open-ended and Two-Way Communication
 	- Full inclusion of ALL students
 	- Students having a part and measure of control over learning experience
 	- Inviting parents/community members to school/classroom
-
 - Tricks to Look-Out For (highlight these!)
 	- The *negator*
-		- All of the following except...
-		- Which one is not...
-		- Ms. Smith can't benefit by...
-		- The most ineffective/inappropriate...
+		- All of the following except…
+		- Which one is not…
+		- Ms. Smith can't benefit by…
+		- The most ineffective/inappropriate…
 	- The *all-inclusive* word
 		- All
 		- Never

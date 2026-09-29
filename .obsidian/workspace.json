@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teaching/ACP/Computer Science 8-12/b. Intro and Testing 101.md",
+                "file": "Teaching/Glossary/Differentiation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b. Intro and Testing 101"
+              "title": "Differentiation"
             }
           }
         ]
@@ -200,13 +200,16 @@
   },
   "active": "819c112c47bf1117",
   "lastOpenFiles": [
+    "Teaching/ACP/Computer Science 8-12/b. Intro and Testing 101.md",
+    "Teaching/Glossary/Differentiation.md",
+    "Teaching/Glossary",
+    "Teaching/Glossary.md",
     "Teaching/ACP/Computer Science 8-12/Domains and Competencies Worksheet.md",
     "Teaching/ACP/Computer Science 8-12/Domain III - Programming Language Topics.md",
     "Teaching/ACP/Computer Science 8-12/Domain I - Technology Applications Core.md",
     "Teaching/ACP/Computer Science 8-12/Domain II - Program Design and Development.md",
     "Competency.md",
     "Teaching/ACP/Computer Science 8-12/Domain IV - Specialized Topics.md",
-    "Teaching/ACP/Computer Science 8-12/b. Intro and Testing 101.md",
     "2026-09-28.md",
     "Teaching/ACP/Computer Science 8-12/Untitled.base",
     "Teaching/ACP/Computer Science 8-12/a. TODO.md",
@@ -218,12 +221,10 @@
     "Teaching/ACP/Computer Science 8-12",
     "Untitled.base",
     "Home Page.md",
-    "Teaching/Untitled.md",
     "Teaching.base",
     "Teaching/Pedagogy",
     "Teaching/ACP",
     "Teaching",
-    "Teaching/ACP/Pre-Service",
     "testing testing testing.md"
   ]
 }

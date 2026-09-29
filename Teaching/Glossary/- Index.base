@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Teaching/Glossary"
+        - file.ext != "base"
+    order:
+      - file.name
+      - tags
+      - link

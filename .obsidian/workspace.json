@@ -11,14 +11,13 @@
             "id": "819c112c47bf1117",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Teaching/Glossary/Differentiation.md",
-                "mode": "source",
-                "source": false
+                "file": "Teaching/Glossary/- Index.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Differentiation"
+              "icon": "lucide-table",
+              "title": "- Index"
             }
           }
         ]
@@ -71,7 +70,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -182,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +196,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "819c112c47bf1117",
+  "active": "354dc3b43e3540b2",
   "lastOpenFiles": [
-    "Teaching/ACP/Computer Science 8-12/b. Intro and Testing 101.md",
     "Teaching/Glossary/Differentiation.md",
+    "Teaching/Glossary/- Index.md",
+    "Teaching/Glossary/- Index.base",
+    "Teaching/Glossary/Test.md",
+    "Templates/Definition.md",
+    "Templates",
+    "Templates/Template Test.md",
+    "Templates",
+    "Home.md",
+    "Teaching/ACP/Computer Science 8-12/b. Intro and Testing 101.md",
     "Teaching/Glossary",
     "Teaching/Glossary.md",
     "Teaching/ACP/Computer Science 8-12/Domains and Competencies Worksheet.md",
@@ -216,15 +226,11 @@
     "Teaching/ACP/In-Service/Schedule.md",
     "Teaching/ACP/Computer Science 8-12/Untitled",
     "Teaching/ACP/In-Service",
-    "Home.md",
     "Gaming/Research/Mechanics.md",
     "Teaching/ACP/Computer Science 8-12",
     "Untitled.base",
     "Home Page.md",
     "Teaching.base",
-    "Teaching/Pedagogy",
-    "Teaching/ACP",
-    "Teaching",
     "testing testing testing.md"
   ]
 }

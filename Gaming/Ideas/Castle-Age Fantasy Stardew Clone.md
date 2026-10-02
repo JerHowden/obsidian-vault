@@ -1,0 +1,24 @@
+- Stardew clone with farming and seasons and npc relationship building
+- Overarching story
+- RPG Skills that relate to professions
+	- DnD Str/Dex/Int ?
+	- Stardew Fishing/Combat ?
+- Multiple villages?
+- Things happening around you
+	- War with another kingdom in Year 2?
+- Different starting scenarios
+	- *Like cyberpunk but actually good*
+	- Fisherman's son/daughter
+	- Blacksmith's son/daughter
+	- etc.
+		- Make them unlockable on completing different playthroughs?
+- Different professions
+	- Farming
+	- Blacksmithing
+	- Magic
+		- Something energy/soul related
+	- Military
+	- Politics?
+	- Stonemasonry?
+	- Fishing?
+	- 

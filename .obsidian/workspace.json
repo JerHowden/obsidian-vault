@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Gaming/Ideas/Castle-Age Fantasy Stardew Clone.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Castle-Age Fantasy Stardew Clone"
             }
           }
         ]
@@ -199,6 +203,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Gaming/Ideas/Castle-Age Fantasy Stardew Clone.md",
+    "Gaming/Ideas",
     "Teaching/Glossary/Untitled.md",
     "Teaching/Glossary/- Index.base",
     "Teaching/Glossary/Differentiation.md",
@@ -228,7 +234,6 @@
     "Teaching/ACP/Computer Science 8-12",
     "Untitled.base",
     "Home Page.md",
-    "Teaching.base",
     "testing testing testing.md"
   ]
 }

@@ -1,0 +1,1 @@
+- Hoarding wealth is antithetical to a functioning society

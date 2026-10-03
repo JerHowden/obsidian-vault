@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "72c7750d44ae146c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "978bbff7f9615c1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gaming/Ideas/Dragonblade/Themes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Themes"
+              "title": "New tab"
             }
           }
         ]
@@ -172,7 +168,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "978bbff7f9615c1c",
   "lastOpenFiles": [
     "Gaming/Ideas/Dragonblade/Themes.md",
     "Gaming/Ideas/Dragonblade"
